@@ -1,7 +1,7 @@
 # S-E-Assignment
+Submitted By :
+Name : Hassan Khoso    Roll No : CSE/2k22/44
+Name : Abdul Hanan     Roll No : CSE/2k22/02
 
-Hassan khoso CSE/2k22/44
-Abdul Hanan CSE/2k22/02
 
-Submitted By : Abdul Hanan & Hassan Khoso
 
